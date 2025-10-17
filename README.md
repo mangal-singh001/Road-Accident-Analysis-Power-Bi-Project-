@@ -15,7 +15,9 @@ The interactive Power BI dashboard allows you to explore accident data by:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+
+![Dashboard Preview](Dashboard%20.png)
+
 
 ---
 
